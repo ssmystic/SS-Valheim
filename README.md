@@ -8,3 +8,5 @@ Step 2: Extract all of the contents from BepInEx_x64.zip to your games source fo
 Step 3: Run the game then close it in Main Menu after 1 minute for BepInEx to generate files it needs
 
 Step 4: Copy the contents of my plugins folder into Steam\steamapps\common\Valheim\BepInEx\plugins
+
+Step 5: Open Game and try to connect server via ip (Details in discord #game-server-info)
