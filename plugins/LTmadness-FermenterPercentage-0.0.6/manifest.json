@@ -1,9 +1,0 @@
-{
-    "name": "FermenterPercentage",
-    "version_number": "0.0.6",
-    "website_url": "https://github.com/LTmadness/FermenterPercentage",
-    "description": "Fermenting barrels finally have % how much they have fermented",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1501"
-    ]
-}

@@ -1,9 +1,0 @@
-﻿{
-  "name": "HoeRadius_By_aedenthorn",
-  "description": "Lets you adjust the hoe radius using the scroll wheel or custom hotkeys",
-  "version_number": "0.1.2",
-  "website_url": " https://github.com/aedenthorn/ValheimMods",
-  "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.1600"
-  ]
-}

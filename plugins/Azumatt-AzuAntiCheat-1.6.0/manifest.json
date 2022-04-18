@@ -1,9 +1,0 @@
-{
-    "name": "AzuAntiCheat",
-    "version_number": "1.6.0",
-    "website_url": "https://discord.gg/KKHujtRGvB",
-    "description": "A minor anti-dickhead mod. Server files dictate what is blacklisted/not allowed. Admins/Moderators bypass the check for plugins.",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1900"
-    ]
-}
