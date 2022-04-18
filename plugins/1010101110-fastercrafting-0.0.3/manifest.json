@@ -1,0 +1,9 @@
+{
+    "name": "fastercrafting",
+    "version_number": "0.0.3",
+    "website_url": "https://github.com/1010101110",
+    "description": "makes crafting faster",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.800"
+    ]
+}
