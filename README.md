@@ -15,6 +15,7 @@ Step 5: Open Game and try to connect server via ip
 
 **Full Plugins/Mods List**
 
+0. ValheimPlus (https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/)
 1. FermenterPercentage (https://valheim.thunderstore.io/package/LTmadness/FermenterPercentage/)
 2. AutoRepair (https://valheim.thunderstore.io/package/Tekla/AutoRepair/)
 3. TorchesEternal (https://valheim.thunderstore.io/package/Xenofell/TorchesEternal/)
