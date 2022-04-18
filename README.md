@@ -5,7 +5,7 @@ Step 1: Download all files from the GIT Repository to your computer
 
 Step 2: Extract all of the contents from BepInEx_x64.zip to your games source folder (:\Steam\steamapps\common\Valheim)
 
-Step 3: Run the game, close it after 1 minute in th eMain Menu  (for BepInEx to generate files it needs)
+Step 3: Run the game, close it after 1 minute in the Main Menu  (for BepInEx to generate files it needs)
 
 Step 4: Copy the contents of the included plugins folder into (:Steam\steamapps\common\Valheim\BepInEx\plugins)
 
