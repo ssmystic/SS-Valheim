@@ -11,6 +11,7 @@ Step 4: Copy the contents of the included plugins folder into (:Steam\steamapps\
 
 Step 5: Open Game and try to connect server via ip
 
+...
 
 **Full Plugins/Mods List**
 
