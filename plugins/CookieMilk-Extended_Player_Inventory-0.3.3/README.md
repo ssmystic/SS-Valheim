@@ -1,1 +1,0 @@
-Version 0.3.3 of [Aedenthorn's](https://www.nexusmods.com/valheim/users/18901754) [Extended Player Inventory](https://www.nexusmods.com/valheim/mods/1356)
