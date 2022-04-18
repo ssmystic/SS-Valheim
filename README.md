@@ -26,3 +26,4 @@ Step 5: Open Game and try to connect server via ip
 9. MultiCraft (https://valheim.thunderstore.io/package/MaxiMods/MultiCraft/)
 10. QuickStack (https://valheim.thunderstore.io/package/damnsneaker/QuickStack/)
 11. HoeRadius (https://valheim.thunderstore.io/package/nexus2thunderstore/HoeRadius_By_aedenthorn/)
+12. ServerCharacters (https://valheim.thunderstore.io/package/Smoothbrain/ServerCharacters/
